@@ -2,8 +2,9 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Camila Morais, tenho 20 anos . Sou estudante de Análise e Desenvolvimento de Sistemas, com previsão de conclusão em 2025. Possuo conhecimentos em JavaScript, PHP, HTML e CSS, adquiridos através da faculdade e cursos da OneBitCode e na DIO. Com foco em desenvolvimento web full-stack, estou em busca de oportunidades para aplicar meus conhecimentos e crescer profissionalmente. 
-Instagram [Milamatica](https://www.instagram.com/milamatica/)
+Me chamo Camila Morais, tenho 20 anos . Sou estudante de Análise e Desenvolvimento de Sistemas, com previsão de conclusão em 2025. Possuo conhecimentos em JavaScript, PHP, HTML e CSS, adquiridos através da faculdade e cursos da OneBitCode e na DIO. Com foco em desenvolvimento web full-stack, estou em busca de oportunidades para aplicar meus conhecimentos e crescer profissionalmente.
+
+Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
 ---
 
 ### 🤖 Linguagens e Tecnologias
