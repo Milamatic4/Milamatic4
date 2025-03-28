@@ -95,6 +95,15 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
 
+<img 
+   align="left"
+   alt="Azure"
+   title="Azure"
+   width="45px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+          
+
 
 <img 
       align="left" 
