@@ -63,7 +63,7 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
     align="left" 
     alt="Git" 
     title="Git"
-    width="45px"  
+    width="50px"  
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
 />
@@ -93,8 +93,43 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
    width="45px"  
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+   <img 
+   align="left" 
+   alt="Wordpress" 
+   title="Wordpress"
+   width="45px"  
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+
+   <img 
+   align="left" 
+   alt="ReactJS" 
+   title="ReactJS"
+   width="45px"  
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+
+  <img 
+   align="left" 
+   alt="NodeJS" 
+   title="NodeJS"
+   width="45px"  
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+
+   <img 
+   align="left" 
+   alt="Laravel" 
+   title="Laravel"
+   width="55px"  
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
           
           
+
+          
+   
 
 
 <img 
