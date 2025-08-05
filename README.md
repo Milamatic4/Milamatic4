@@ -77,14 +77,6 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 
-
-<img 
-   align="left" 
-   alt="AWS" 
-   title="AWS"
-   width="45px"  
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
    
 <img 
    align="left" 
@@ -110,7 +102,6 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
 
-   
 
   <img 
    align="left" 
@@ -119,18 +110,14 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
    width="45px"  
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-
-   <img 
+   
+  <img 
    align="left" 
-   alt="Laravel" 
-   title="Laravel"
-   width="55px"  
+   alt="BootStrap" 
+   title="BootStrap"
+   width="45px"  
    style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
-          
-          
-
-          
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
    
 
 
