@@ -104,11 +104,13 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
 
    <img 
    align="left" 
-   alt="ReactJS" 
-   title="ReactJS"
+   alt="ReactNative" 
+   title="ReactNative"
    width="45px"  
    style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
+
+   
 
   <img 
    align="left" 
