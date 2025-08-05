@@ -118,6 +118,16 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
    width="45px"  
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+
+<img 
+   align="left" 
+   alt="Linux" 
+   title="Linux"
+   width="45px"  
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+   
    
 
 
