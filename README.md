@@ -132,7 +132,7 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
    align="left" 
    alt="TailWindCSS" 
    title="TailWindCSS"
-   width="45px"  
+   width="50px"  
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 
