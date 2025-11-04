@@ -69,15 +69,6 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
 />
 
-
-<img 
-   align="left" 
-   alt="GitHub" 
-   title="GitHub"
-   width="45px"  
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-
    
 <img 
    align="left" 
@@ -130,11 +121,14 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
 
    <img 
    align="left" 
-   alt="TailWindCSS" 
-   title="TailWindCSS"
+   alt="Yii" 
+   title="Yii"
    width="55px"  
    style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original-wordmark.svg" />
+
+   
+          
 
    
 
