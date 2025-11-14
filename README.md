@@ -120,13 +120,16 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
    <img 
-   align="left" 
+   align="center" 
    alt="Laravel" 
    title="Laravel"
-   width="70px"  
+   width="45px"  
    style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+          
    
            
           
