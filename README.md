@@ -121,11 +121,15 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
 
    <img 
    align="left" 
-   alt="Yii" 
-   title="Yii"
+   alt="Laravel" 
+   title="Laravel"
    width="55px"  
    style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yii/yii-original-wordmark.svg" />
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+
+   
+           
+          
 
    
           
