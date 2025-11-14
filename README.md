@@ -123,7 +123,7 @@ Link para meu Instagram [Milamatica](https://www.instagram.com/milamatica/)
    align="left" 
    alt="Laravel" 
    title="Laravel"
-   width="55px"  
+   width="70px"  
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
 
